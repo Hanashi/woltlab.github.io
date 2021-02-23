@@ -30,6 +30,7 @@ Form builder consists of several components that are presented on the following 
 1. [Structure of form builder](php_api_form_builder-structure.html)
 1. [Form validation and form data](php_api_form_builder-validation_data.html)
 1. [Form node dependencies](php_api_form_builder-dependencies.html)
+1. [Form Builder Fields](php_api_form_builder-form_fields.html)
 
 {% include callout.html content="In general, form builder provides default implementation of interfaces by providing either abstract classes or traits.
   It is expected that the interfaces are always implemented using these abstract classes and traits!
